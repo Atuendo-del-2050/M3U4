@@ -1,0 +1,41 @@
+
+#cuadrado1 {
+    width: 200px;
+    height: 200px;
+    margin: 100px;
+    background: red;
+    padding: 70px;
+    box-sizing: border-box;
+    border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px; 
+
+}
+
+
+#cuadrado2 {
+    width: 200px;
+    height: 200px;
+    margin: 100px;
+    color: white;
+    background: rgb(7, 1, 1);
+    padding: 70px;
+    box-sizing: border-box;
+    border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px; 
+
+}
+
+#cuadrado3 {
+    width: 200px;
+    height: 200px;
+    margin: 100px;
+    background: rgb(245, 248, 42);
+    padding: 70px;
+    box-sizing: border-box;
+    border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px; 
+
+}
